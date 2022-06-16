@@ -1,5 +1,6 @@
 html{
   scroll-behavior: smooth;
+  cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1028.ani), url(https://cur.cursors-4u.net/cursors/cur-11/cur1027.png), auto !important;
 }
 body{
   background-color: #596E5C;
@@ -78,6 +79,9 @@ animation-timing-function: linear;
 #github-img:hover{
   transform: translate3d(10px, 0, 0);
 
+}
+#profile-link{
+  cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1028.ani), url(https://cur.cursors-4u.net/cursors/cur-11/cur1027.png), auto !important;
 }
 #footer{
  background-color: #002408;
